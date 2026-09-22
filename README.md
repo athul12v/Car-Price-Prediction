@@ -1,4 +1,4 @@
-# 🚗 Car Price Prediction — Machine Learning
+# 🚗 Car Price Prediction - Machine Learning
 
 A beginner-friendly **Machine Learning regression project** for predicting the selling price of used cars.
 
